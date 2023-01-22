@@ -1,6 +1,13 @@
 [Adblock Plus 2.0]
-! Personal Adblock Plus Filter - Back to 94
-
+! Version: 202301221556
+! Homepage: https://github.com/dmyanster/personal_public_files
+! Title: Personal Adblock Plus Filter - Back to 94
+! License: http://creativecommons.org/licenses/by/3.0/
+! Last modified: 22 Jan 2023 15:03 UTC
+! Expires: 1 days (update frequency)
+!
+!--------------------------General blocking rules-----------------------------!
+! *** easylist:fanboy-addon/fanboy_social_general_block.txt ***
 blackcitadelrpg.com###sticky-navigation
 superuser.com##.js-consent-banner
 amazon.com##.pmts-select-payment-instrument-payments-page-advertisement
